@@ -10,7 +10,6 @@ body {
 }
 .wrapper {
     width: 400px;
-    //border: 3px solid red;
     background-color: black;
     color: white;
 }
@@ -33,6 +32,7 @@ body {
     border: none;
     height: 100px;
     flex-basis: 24.5%;
+    border-radius: 10px; /*only different thing from class*/
 }
 .double {
     flex-basis: 49.7%;
